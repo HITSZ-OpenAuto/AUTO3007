@@ -1,0 +1,4 @@
+category: 限选
+module: 控制理论与控制工程
+semester: 第三学年春季
+name: 过程控制系统
