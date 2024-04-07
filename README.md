@@ -4,6 +4,7 @@
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（20级情况）-gold)  ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)  ![Static Badge](https://img.shields.io/badge/实验-40%25-wheat)![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-40%25-wheat) 
 
+2024.4.7更新：添加一个新的实验报告版本，和一些备考资料；所有课件均移动到校内网盘了。
 
 ## 授课教师
 
