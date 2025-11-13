@@ -1,0 +1,189 @@
+ID: "AUTO3007"
+SimilarID: []
+Name: "过程控制系统"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3007"
+  CourseName: "过程控制系统"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 20
+    - Name: "实验"
+      Percentage: 40
+    - Name: "期末考试"
+      Percentage: 40
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 36
+    - Name: "实验"
+      Hour: 12
+
+  Major:
+    - Year: "2020_2021"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3007"
+  CourseName: "过程控制系统"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 20
+    - Name: "实验"
+      Percentage: 30
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 20
+    - Name: "实验"
+      Hour: 12
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3007"
+  CourseName: "过程控制系统"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 20
+    - Name: "实验"
+      Percentage: 30
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 20
+    - Name: "实验"
+      Hour: 12
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3007"
+  CourseName: "过程控制系统"
+  Credit: "3.0"
+  CourseHour: "48.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 20
+    - Name: "实验"
+      Percentage: 30
+    - Name: "期末考试"
+      Percentage: 50
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 20
+    - Name: "实验"
+      Hour: 12
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化", "自动化（第二学士学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3007"
+  CourseName: "过程控制系统"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 20
+    - Name: "实验"
+      Percentage: 40
+    - Name: "期末考试"
+      Percentage: 40
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 20
+    - Name: "实验"
+      Hour: 12
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "春"
+  CourseType: "限选"
+  CourseID: "AUTO3007"
+  CourseName: "过程控制系统"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: ""
+    - Name: "实验"
+      Percentage: ""
+    - Name: "期末考试"
+      Percentage: ""
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+    - Name: ""
+      Hour: ""
