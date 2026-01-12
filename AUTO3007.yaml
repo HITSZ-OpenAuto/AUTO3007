@@ -1,0 +1,59 @@
+# 无法确定课程代码。
+# "20级"、"21~22级" 等年份信息已根据入学年份转换为对应的公元年份（如 2020, 2021, 2022）。
+# “关于考试”部分存在归属歧义，已根据上下文将内容拆分为两条评价，分别归属于“不知名学长”和“psp_dada”。
+course_name: "过程控制系统"
+course_code: ""
+notices: ""
+grading:
+  2022: "作业(20%) + 实验(30%) + 期末考试(50%)"
+  2021: "作业(20%) + 实验(30%) + 期末考试(50%)"
+  2020: "作业(20%) + 实验(40%) + 期末考试(40%)"
+teachers:
+  - name: "苗子博"
+    reviews:
+      - content: |
+          授课风格：小天使
+          是否需要认真听讲做笔记：不用
+          听课建议：摆，可以翘，课上有测验，同学可以帮忙交
+          （注：2025 年没有上课测验，老师上课点人回答问题只点去了的同学）
+        submitter:
+          name: ""
+          link: ""
+textbooks:
+  - title: "过程控制系统与仪表"
+    author: "王再英，刘淮霞，彭倩"
+    publisher: "机械工业出版社"
+    edition: "第 2 版"
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+online_resources: []
+about_course: []
+about_exam:
+  - content: "考试难度：低，每年没听说有挂科的"
+    submitter:
+      name: "不知名学长"
+      link: ""
+  - content: |
+      考试难度很简单，考试内容基本是老师上课强调了要掌握的重点，因此只需要考前速通一下回放有个印象即可。考题的顺序基本按照上课教的章节顺序排列，所以考试时可以自己把握做题顺序。
+      考试的基本套路可以参考 exams 文件夹下往年的题目，需要大背诵的内容不多，根据考试重点稍微背一些即可；由于大家都是上过自控的，这门课需要理解的内容也不多。由于考试分数的占比不高，甚至可以完全忽略难度较大的后面两章（Smith 和解耦控制）都能及格。
+    submitter:
+      name: "psp_dada"
+      link: "https://github.com/pspdada"
+study_advice:
+  - content: "性价比极高，必选。22 级这门课的学时少了很多，导致内容也少了很多，因此速通更方便了。不过仓库里 23 年的笔记和资料依然适用。"
+    submitter:
+      name: ""
+      link: ""
+schedule:
+  - content: "19~21级: 总学时48 (授课36 + 实验12)"
+    submitter:
+      name: ""
+      link: ""
+  - content: "22级: 总学时32 (授课20 + 实验12)"
+    submitter:
+      name: ""
+      link: ""
+related_links: []
+misc: []
