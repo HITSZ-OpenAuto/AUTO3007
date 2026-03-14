@@ -4,18 +4,17 @@ course_code = "AUTO3007"
 
 description = "过程控制系统课程资料。"
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "苗子博"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：小天使
 是否需要认真听讲做笔记：不用
 听课建议：摆，可以翘，课上有测验，同学可以帮忙交
 （注：2025 年没有上课测验，老师上课点人回答问题只点去了的同学）
 """
-
-
 [[sections]]
 title = "教材"
 
