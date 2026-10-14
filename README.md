@@ -1,11 +1,5 @@
 # AUTO3007 - 过程控制系统
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 过程控制系统课程资料。
 
