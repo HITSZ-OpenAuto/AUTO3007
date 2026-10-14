@@ -1,10 +1,10 @@
 course_name = "过程控制系统"
-repo_type = "normal"
 course_code = "AUTO3007"
-
+repo_type = "normal"
 description = "过程控制系统课程资料。"
 
 [lecturers]
+
 [[lecturers.items]]
 name = "苗子博"
 
@@ -15,6 +15,7 @@ content = """
 听课建议：摆，可以翘，课上有测验，同学可以帮忙交
 （注：2025 年没有上课测验，老师上课点人回答问题只点去了的同学）
 """
+
 [[sections]]
 title = "教材"
 
